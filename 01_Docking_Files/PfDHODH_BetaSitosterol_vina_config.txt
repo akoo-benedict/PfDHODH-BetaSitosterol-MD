@@ -1,0 +1,15 @@
+receptor = 04_Docking/PfDHODH_FMN_rigid_receptor.pdbqt
+ligand = 04_Docking/BetaSitosterol.pdbqt
+
+center_x = 16.528
+center_y = -33.340
+center_z = 35.492
+
+size_x = 24
+size_y = 24
+size_z = 24
+
+exhaustiveness = 32
+num_modes = 20
+energy_range = 5
+seed = 20261021
